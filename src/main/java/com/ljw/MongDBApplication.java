@@ -26,7 +26,7 @@ public class MongDBApplication {
 		
 		log.info("\n----------------------------------------------------------\n\t"
 				+ "Application {} is running! Access URLs:\n\t" + // 大括号1
-				"Local: \t\thttp://localhost:{}/{}\n\t" + // 大括号2
+				"Local: \t\thttp://localhost:{}{}\n\t" + // 大括号2
 				"{}\n\t" + // 大括号3
 				"\n----------------------------------------------------------",
 
